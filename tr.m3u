@@ -21,35 +21,45 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Undefined",NTV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="NTVSpor.tr" tvg-logo="https://i.imgur.com/5pvsIsL.png" group-title="Sports",NTV Spor
-http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="Undefined",Show Turk
-https://showturk.blutv.com/blutv_showturk2/live.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Undefined",Show TV
-http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="General",Sozcu Televizyonu (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="Undefined",Show Turk
+https://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360.tr",360
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
+https://www.youtube.com/watch?v=IMy6RvwMJLs
+#EXTINF:-1 tvg-id="BloombergHT.tr",Bloomberg HT
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTHaberHD.tr",TRT Haber
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="TRT 1",TRT 1
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Undefined",TRT 2
-https://trt2.blutv.com/blutv_trt2/live.m3u8
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png" group-title="Undefined",TRT Avaz (720p)
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="Undefined",TRT Belgesel (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT Çocuk (720p)
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="Sports",TRT Spor (720p) [Geo-blocked]
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.imgur.com/MJPoj3j.png" group-title="Sports",TRT Spor Yildiz (720p) [Geo-blocked]
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Spor
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Spor 2
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Undefined",TRT Turk
 https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8 (1080p) [Not 24/7]
@@ -78,3 +88,15 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 1
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_1.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 2
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_2.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 3
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_3.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 4
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_4.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 5
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_5.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 6
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_6.m3u8
