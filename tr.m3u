@@ -37,29 +37,25 @@ https://mn-nl.mncdn.com/blutv_kanald/live.m3u8
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
 https://mn-nl.mncdn.com/blutv_foxtv/live.m3u8
-#EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
-https://mn-nl.mncdn.com/blutv_star/live.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
-https://mn-nl.mncdn.com/blutv_tv8/live.m3u8
 #EXTINF:-1 tvg-id="360.tr",360
 https://mn-nl.mncdn.com/360tv_live/live.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr",Bloomberg HT
-https://mn-nl.mncdn.com/blutv_bloomberght/live.m3u8
+https://mn-nl.mncdn.com/bloomberght_live/live.m3u8
 #EXTINF:-1 tvg-id="TRTHaberHD.tr",TRT Haber
-https://mn-nl.mncdn.com/blutv_trthaber/live.m3u8
+https://mn-nl.mncdn.com/trthaber_live/live.m3u8
 #EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="TRT 1",TRT 1
-https://mn-nl.mncdn.com/blutv_trt11/live.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
+https://mn-nl.mncdn.com/trt1_live/live.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 (1080p)
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",TRT Haber (720p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Spor 2
-https://tv-trtspor2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="Undefined",TRT Turk
-https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8 (1080p) [Not 24/7]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://i.imgur.com/ZvjuVGh.png" group-title="Undefined",TV 100 (720p)
