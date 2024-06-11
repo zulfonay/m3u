@@ -56,13 +56,13 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Spor 2
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV 8 (1080p)
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://i.imgur.com/ZvjuVGh.png" group-title="Undefined",TV 100 (720p)
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100",TV 100 (720p)
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://i.imgur.com/mQo8yWQ.png" group-title="Undefined",TVnet (720p)
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET",TVnet (720p)
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="https://i.imgur.com/wdWR7Qk.png" group-title="Undefined",Ülke TV (720p)
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="UlkeTV",Ülke TV (720p)
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
