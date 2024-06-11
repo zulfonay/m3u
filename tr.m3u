@@ -47,13 +47,12 @@ https://mn-nl.mncdn.com/trthaber_live/live.m3u8
 https://mn-nl.mncdn.com/trt1_live/live.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 (1080p)
 https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 (1080p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Spor 2
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV 8 (1080p)
