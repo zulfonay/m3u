@@ -23,30 +23,14 @@ https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="https://i.imgur.com/BxpdvsG.png" group-title="General",Sozcu Televizyonu (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D (1080p)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="Undefined",Star TV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" group-title="Undefined",Show Turk
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv/live.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
-https://mn-nl.mncdn.com/blutv_kanald/live.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
-https://mn-nl.mncdn.com/blutv_foxtv/live.m3u8
-#EXTINF:-1 tvg-id="360.tr",360
-https://mn-nl.mncdn.com/360tv_live/live.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr",Bloomberg HT
-https://mn-nl.mncdn.com/bloomberght_live/live.m3u8
-#EXTINF:-1 tvg-id="TRTHaberHD.tr",TRT Haber
-https://mn-nl.mncdn.com/trthaber_live/live.m3u8
-#EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="TRT 1",TRT 1
-https://mn-nl.mncdn.com/trt1_live/live.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 (1080p)
-https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Undefined",Show TV
+http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 (1080p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber",TRT Haber (720p)
