@@ -9,6 +9,8 @@ https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="Undefined",ATV Avrupa (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk",BBC News (720p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="News",CNN Türk (720p)
@@ -41,6 +43,8 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV 8 (1080p)
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV85.tr",TV 8.5 (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100",TV 100 (720p)
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET",TVnet (720p)
@@ -65,15 +69,3 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 1
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_1.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 2
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_2.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 3
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_3.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 4
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_4.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 5
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_5.m3u8
-#EXTINF:-1,Selçuk Sports - Alternatif 6
-https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_6.m3u8
