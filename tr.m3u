@@ -23,7 +23,7 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Undefined",Kanal D (1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://i.imgur.com/jXbs8FZ.png" group-title="Undefined",NTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NTV.tr",NTV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="NTVSpor.tr",NTV Spor
 http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
@@ -34,9 +34,13 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr",Show TV (1080p)
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
-https://trt1.persona.video/master.m3u8?hls=1
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
+https://trt1.persona.video/master.m3u8?hls=1
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p) [Geo-blocked]
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (720p)
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (720p) [Geo-blocked]
