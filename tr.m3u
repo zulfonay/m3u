@@ -1,46 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Undefined",24 TV
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="Undefined",360 TV (720p) [Not 24/7]
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",A Haber
-https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="Sports",A Spor (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TRTBelgesel.tr",TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" ,TRT Spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr",A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-id="ASpor.tr",A Spor (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="Undefined",ATV Avrupa (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:-1 tvg-id="24TV.tr",24 TV
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:-1 tvg-id="AHaber.tr",A Haber
+https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr",CNN Türk
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="News",Habertürk TV (720p)
 https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Undefined",Halk TV (720p)
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr",Kanal D (1080p)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="NTV.tr",NTV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr",Show TV (1080p)
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr",Star TV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber",TRT Haber (720p)
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV 8 (1080p)
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV85.tr",TV 8.5 (720p)
-http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-#EXTINF:-1 tvg-id="TV8International.tr",TV8 International (720p)
-http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
+http://stream.tvcdn.net/haber/ntv.m3u8
+#EXTINF:-1 tvg-id="SozcuTV.tr",Sözcü TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100",TV 100 (720p)
 https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET",TVnet (720p)
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="UlkeTV",Ülke TV (720p)
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:-1 tvg-id="ATV.tr",atv
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 tvg-id="ATVAvrupa.tr",ATV Avrupa (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr",Kanal D (1080p)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="Now.tr",Now TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr",Show TV (1080p)
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr",Star TV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV 8 (1080p)
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:-1 tvg-id="TV85.tr",TV 8.5 (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
+#EXTINF:-1 tvg-id="TV8International.tr",TV8 International (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,ZDF
