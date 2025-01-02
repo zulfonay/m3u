@@ -52,6 +52,8 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:-1,Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de",Das Erste (1080p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1,ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1,ZDF neo
@@ -68,7 +70,5 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de",ProSieben (576p)
-#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
-http://85.187.13.40:18000/ProSieben
+
 
