@@ -1,38 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRTBelgesel.tr",TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr",National Geographic (1080p) [Geo-blocked]
-https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (1080p)
 http://185.234.111.229:8000/play/a00e
-#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (1080p) [Geo-blocked]
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr",TRT Spor Yildiz (1080p) [Geo-blocked]
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr",A Spor (720p)
-https://tgn.bozztv.com/dvrfl05/gin-aspor/index.m3u8
 #EXTINF:-1 tvg-id="SSport.tr",S Sport
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="24TV.tr",24 TV
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr",A Haber
 http://stream.tvcdn.net/haber/a-haber.m3u8
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr",Haber Global
-https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (1080p)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (1080p)
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (720p) [Not 24/7]
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr",Halk TV (720p)
 https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1 tvg-id="NTV.tr",NTV (720p) [Not 24/7]
@@ -53,13 +37,7 @@ http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-id="ATV.tr",ATV
-https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:-1 tvg-id="ATV.tr",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr",ATV
-https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr",ATV (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr",Kanal D (1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="Now.tr",Now TV
@@ -98,13 +76,3 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master.m3u8
-#EXTINF:-1 tvg-id="RTL.de",RTL (576p)
-https://s6.hopslan.com/rtlc1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RTL.de",RTL (Germany) (576p)
-http://178.219.128.68:64888/RTL
-#EXTINF:-1 tvg-id="ProSieben.de" http-referrer="http://85.187.13.40:18000/",ProSieben (576p)
-#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
-http://85.187.13.40:18000/ProSieben
-#EXTINF:-1 tvg-id="ProSieben.de" http-referrer="https://2ix2.com/pro7/",ProSieben (576p)
-#EXTVLCOPT:http-referrer=https://2ix2.com/pro7/
-https://s6.hopslan.com/pro7x1/index.m3u8
