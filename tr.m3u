@@ -18,12 +18,8 @@ https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-name="CNN TURK",CNN TURK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-name="NTV",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (1080p)
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV 
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-name="HALK TV",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
