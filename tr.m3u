@@ -10,9 +10,15 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-name="TRT Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Sports TV",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 #EXTINF:-1 tvg-name="CNN TURK",CNN TURK
-https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV",NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-name="NTV",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr",Habertürk TV (1080p)
